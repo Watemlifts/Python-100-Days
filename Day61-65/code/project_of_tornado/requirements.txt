@@ -1,4 +1,4 @@
-aiomysql==0.0.20
+aiomysql==0.3.0
 asn1crypto==0.24.0
 cffi==1.12.2
 cryptography==39.0.1
